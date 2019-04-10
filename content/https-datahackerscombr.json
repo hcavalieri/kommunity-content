@@ -1,0 +1,13 @@
+{
+  "url": "https://datahackers.com.br/",
+  "format": "article",
+  "skillLevel": "intermediate",
+  "category": "Themes",
+  "title": "Faça parte da maior comunidade de Data Science do Brasil!",
+  "recommendations": [
+    {
+      "user": "hcavalieri",
+      "comment": "Comment"
+    }
+  ]
+}
