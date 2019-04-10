@@ -1,0 +1,12 @@
+{
+  "title": "Google",
+  "format": "video",
+  "url": "https://google.com",
+  "recommendations": [
+    {
+      "user": "hcavalieri",
+      "comment": "Great tool for searching"
+    }
+  ],
+  "category": "Workflow"
+}
